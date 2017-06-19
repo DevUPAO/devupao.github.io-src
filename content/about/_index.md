@@ -1,5 +1,5 @@
 +++
-date = "2017-06-14:02:37+02:00"
+date = "2017-06-14"
 title = "Sobre nosotros"
 hidden = true
 +++
