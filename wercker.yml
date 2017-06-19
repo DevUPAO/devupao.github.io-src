@@ -1,4 +1,4 @@
-ox: debian
+box: debian
 build:
     steps:
         - arjen/hugo-build:
