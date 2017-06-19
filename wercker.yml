@@ -1,2 +1,15 @@
-steps:
-  - arjen/hugo-build@1.18.0
+ox: debian
+build:
+    steps:
+        - arjen/hugo-build:
+            flags: --buildDrafts=true
+deploy:
+    steps:
+        - install-packages:
+            packages: git ssh-client
+        - leipert/git-push:
+            gh_oauth: $GIT_TOKEN
+            repo: devupao/devupao.github.io
+            branch: master
+            basedir: public
+
