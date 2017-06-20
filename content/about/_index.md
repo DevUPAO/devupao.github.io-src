@@ -15,7 +15,7 @@ Somos una comunidad amante del de desarrollo y software libre de la [Universidad
 
 <div class="clearfix">
 	<div style="padding: 10px; border: 1px solid #ccc; width: 200px; float: left;">
-	<img src="images/edwin-torres.jpg">
+	<img src="images/edwin-torres.jpg" alt="Edwin Torres">
 	</div> 
 	<div style="display: inline-block; width: calc(100% - 230px); margin-left: 20px; ">
 		<h3>Edwin Torres</h3>
@@ -28,7 +28,7 @@ Somos una comunidad amante del de desarrollo y software libre de la [Universidad
 <hr>
 <div class="clearfix">
 	<div style="padding: 10px; border: 1px solid #ccc; width: 200px; float: left;">
-	<img src="images/nick-burgos.jpg">
+	<img src="images/nick-burgos.jpg" alt="Nick Burgos">
 	</div> 
 	<div style="display: inline-block; width: calc(100% - 230px); margin-left: 20px; ">
 		<h3>Nick Burgos</h3>
@@ -41,7 +41,7 @@ Somos una comunidad amante del de desarrollo y software libre de la [Universidad
 <hr>
 <div class="clearfix">
 	<div style="padding: 10px; border: 1px solid #ccc; width: 200px; float: left;">
-	<img src="images/fiorella-tello.jpg">
+	<img src="images/fiorella-tello.jpg" alt="Fiorella Tello">
 	</div> 
 	<div style="display: inline-block; width: calc(100% - 230px); margin-left: 20px; ">
 		<h3>Fiorella Tello</h3>
@@ -60,7 +60,7 @@ Somos una comunidad amante del de desarrollo y software libre de la [Universidad
 
 <div class="clearfix">
 	<div style="padding: 10px; border: 1px solid #ccc; width: 200px; float: left;">
-	<img src="images/ali-lozano.jpg">
+	<img src="images/ali-lozano.jpg" alt="Ali Lozano">
 	</div> 
 	<div style="display: inline-block; width: calc(100% - 230px); margin-left: 20px; ">
 		<h3><a href="http://alilozano.com">Ing. Ali Lozano</a></h3>
@@ -72,7 +72,7 @@ Somos una comunidad amante del de desarrollo y software libre de la [Universidad
 <hr>
 <div class="clearfix">
 	<div style="padding: 10px; border: 1px solid #ccc; width: 200px; float: left;">
-	<img src="images/henry-mendoza.jpg">
+	<img src="images/henry-mendoza.jpg" alt="Henry Mendoza">
 	</div> 
 	<div style="display: inline-block; width: calc(100% - 230px); margin-left: 20px; ">
 		<h3><a href="http://www.henrymendozapuerta.com)">Ing. Henry Mendoza Puerta</a></h3>

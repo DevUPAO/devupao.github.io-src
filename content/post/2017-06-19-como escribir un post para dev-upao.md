@@ -1,6 +1,6 @@
 +++
 title = "Como escribir un post para dev/upao"
-author = "/dev/ali"
+author = "dev/upao"
 date = "2017-06-19"
 description = "Como escribir un post para dev/upao"
 tags = ["hugo", "github", "dev/upao"]
