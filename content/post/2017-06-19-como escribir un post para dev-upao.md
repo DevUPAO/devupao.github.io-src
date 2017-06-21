@@ -9,13 +9,14 @@ tags = ["hugo", "github", "dev/upao"]
 Gracias por leer este artículo, entiendo que deseas colaborar con la comunidad de Dev/UPAO.  El blog de Dev/UPAO está hecho por desarrolladores para desarrolladores, actualmente está desplegado sobre github.io, el cual es un proveedor de páginas estáticas, o sea html puro.
 
 ## ¿Qué es GitHub Pages?
-#TODO
+Está diseñado para alojar sus páginas personales, organización o proyecto directamente desde un repositorio GitHub.
 ## ¿Que es un generador de páginas estáticas?
-#TODO
+Un generador de paginas estaticas es mediante el cual uno puede crear cualquier sitio web incluyendo un blog, pero sin el uso de base de datos, ya que para ello solo se usa archivos de texto plano.
 ### ¿Quien es HUGO?
+Hugo es una nueva idea para hacer la creación de sitio web sensillos ya que trabaja de forma flexible con muchos formatos, y es ideal para los blogs, documentos, carteras y mucho más.
 ## Ventajas:
 - Nos permite trabajar con hostings estáticos.
-- Trabaja con **Markdown**
+- Trabaja con **Markdown**.
 - Es fácil de instalar y usar.
 ## ¿Como enviar mi post?
 Para enviar tu post como un buen **desarrollador alpha** tienes que enviar un `pull request` a nuestro repositorio [GitHub - DevUPAO/devupao.github.io-src](https://github.com/DevUPAO/devupao.github.io-src)  con tu post en la carpeta `/content/post`
