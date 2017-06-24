@@ -10,10 +10,10 @@ Gracias por leer este artículo, entiendo que deseas colaborar con la comunidad 
 
 ## ¿Qué es GitHub Pages?
 Está diseñado para alojar sus páginas personales, organización o proyecto directamente desde un repositorio GitHub.
-## ¿Que es un generador de páginas estáticas?
-Un generador de paginas estaticas es mediante el cual uno puede crear cualquier sitio web incluyendo un blog, pero sin el uso de base de datos, ya que para ello solo se usa archivos de texto plano.
-### ¿Quien es HUGO?
-Hugo es una nueva idea para hacer la creación de sitio web sensillos ya que trabaja de forma flexible con muchos formatos, y es ideal para los blogs, documentos, carteras y mucho más.
+## ¿Qué es un generador de páginas estáticas?
+Un generador de pàginas estáticas es mediante el cual uno puede crear cualquier sitio web incluyendo un blog, pero sin el uso de base de datos, ya que para ello solo se usa archivos de texto plano.
+### ¿Quién es HUGO?
+Hugo es una nueva idea para hacer la creación de sitio web sencillo ya que trabaja de forma flexible con muchos formatos, y es ideal para los blogs, documentos, carteras y mucho más.
 ## Ventajas:
 - Nos permite trabajar con hostings estáticos.
 - Trabaja con **Markdown**.
