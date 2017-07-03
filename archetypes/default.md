@@ -1,8 +1,7 @@
 +++
-author = "Juan Perez"
-date: 2017-06-19
 title = ""
+author = ""
+date = ""
 description = ""
-tags = ["x"]
-categories = ["y"]
+tags = ["hugo", "github", "dev/upao"]
 +++
