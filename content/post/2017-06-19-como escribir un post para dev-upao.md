@@ -1,5 +1,5 @@
 +++
-title = "Como escribir un post para dev/upao"
+title = "Como escribir un post para "
 author = "dev/upao"
 date = "2017-06-19"
 description = "Como escribir un post para dev/upao"
@@ -9,14 +9,13 @@ tags = ["hugo", "github", "dev/upao"]
 Gracias por leer este artículo, entiendo que deseas colaborar con la comunidad de Dev/UPAO.  El blog de Dev/UPAO está hecho por desarrolladores para desarrolladores, actualmente está desplegado sobre github.io, el cual es un proveedor de páginas estáticas, o sea html puro.
 
 ## ¿Qué es GitHub Pages?
-Está diseñado para alojar sus páginas personales, organización o proyecto directamente desde un repositorio GitHub.
-## ¿Qué es un generador de páginas estáticas?
-Un generador de pàginas estáticas es mediante el cual uno puede crear cualquier sitio web incluyendo un blog, pero sin el uso de base de datos, ya que para ello solo se usa archivos de texto plano.
-### ¿Quién es HUGO?
-Hugo es una nueva idea para hacer la creación de sitio web sencillo ya que trabaja de forma flexible con muchos formatos, y es ideal para los blogs, documentos, carteras y mucho más.
+#TODO
+## ¿Que es un generador de páginas estáticas?
+#TODO
+### ¿Quien es HUGO? 
 ## Ventajas:
 - Nos permite trabajar con hostings estáticos.
-- Trabaja con **Markdown**.
+- Trabaja con **Markdown**
 - Es fácil de instalar y usar.
 ## ¿Como enviar mi post?
 Para enviar tu post como un buen **desarrollador alpha** tienes que enviar un `pull request` a nuestro repositorio [GitHub - DevUPAO/devupao.github.io-src](https://github.com/DevUPAO/devupao.github.io-src)  con tu post en la carpeta `/content/post`
